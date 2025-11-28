@@ -11,6 +11,11 @@ Merhaba! Bu proje, Python kullanarak geliştirilmiş basit ve etkili bir yüz ta
 
 Projeyi GitHub'a yüklerken kendi fotoğraflarımı ve oluşturulan model dosyasını kişisel veriler içerdiği için kaldırdım. Ancak endişelenmeyin, aşağıdaki adımları takip ederek sistemi kendi fotoğraflarınızla çok kolay bir şekilde çalıştırabilirsiniz.
 
+### Örnek Video
+
+Aşağıda sistemin nasıl çalıştığına dair kısa bir örnek videoyu indirebilirsiniz:
+[Örnek Videoyu İndir/İzle](sample-video/sample-video.mp4)
+
 ### Nasıl Çalışır?
 
 Sistem temel olarak iki aşamadan oluşur:
@@ -55,6 +60,11 @@ Kamera açılacak ve tanımladığınız kişileri gördüğünde isimlerini ekr
 Hello! This is a simple and effective face recognition system built with Python. It utilizes the `face_recognition` library to learn faces from photos and recognize them in real-time via webcam.
 
 I have removed my personal photos and the pre-trained model file for privacy reasons. However, you can easily run the system with your own photos by following the steps below.
+
+### Sample Video
+
+You can download/watch a short sample video of the system in action here:
+[Download/Watch Sample Video](sample-video/sample-video.mp4)
 
 ### How It Works
 
