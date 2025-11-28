@@ -16,6 +16,14 @@ Projeyi GitHub'a yüklerken kendi fotoğraflarımı ve oluşturulan model dosyas
 Aşağıda sistemin nasıl çalıştığına dair kısa bir örnek videoyu indirebilirsiniz:
 [Örnek Videoyu İndir/İzle](sample-video/sample-video.mp4)
 
+### Gereksinimler
+
+Projenin çalışması için gerekli kütüphaneler `requirements.txt` dosyasında belirtilmiştir. Aşağıdaki komut ile kolayca yükleyebilirsiniz:
+
+```bash
+pip install -r requirements.txt
+```
+
 ### Nasıl Çalışır?
 
 Sistem temel olarak iki aşamadan oluşur:
@@ -47,11 +55,6 @@ python main.py
 ```
 Kamera açılacak ve tanımladığınız kişileri gördüğünde isimlerini ekranda gösterecektir. Çıkmak için 'q' tuşuna basabilirsiniz.
 
-### Gereksinimler
-- `opencv-python`
-- `face_recognition`
-- `numpy`
-
 ---
 
 <a name="english"></a>
@@ -65,6 +68,14 @@ I have removed my personal photos and the pre-trained model file for privacy rea
 
 You can download/watch a short sample video of the system in action here:
 [Download/Watch Sample Video](sample-video/sample-video.mp4)
+
+### Requirements
+
+The necessary libraries are listed in `requirements.txt`. You can install them easily using the following command:
+
+```bash
+pip install -r requirements.txt
+```
 
 ### How It Works
 
@@ -96,8 +107,3 @@ After training is complete, run the main program:
 python main.py
 ```
 The webcam will open and display the names of recognized people. Press 'q' to quit.
-
-### Requirements
-- `opencv-python`
-- `face_recognition`
-- `numpy`
