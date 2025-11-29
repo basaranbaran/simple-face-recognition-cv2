@@ -5,7 +5,7 @@
 ---
 
 <a name="türkçe"></a>
-## 🇹🇷 Türkçe: Basit Yüz Tanıma Sistemi
+## Türkçe: Basit Yüz Tanıma Sistemi
 
 Merhaba! Bu proje, Python kullanarak geliştirilmiş basit ve etkili bir yüz tanıma sistemidir. `face_recognition` kütüphanesini kullanarak fotoğraflardan yüzleri öğrenir ve kameradan anlık olarak bu kişileri tanıyabilir.
 
@@ -58,7 +58,7 @@ Kamera açılacak ve tanımladığınız kişileri gördüğünde isimlerini ekr
 ---
 
 <a name="english"></a>
-## 🇺🇸 English: Simple Face Recognition System
+## English: Simple Face Recognition System
 
 Hello! This is a simple and effective face recognition system built with Python. It utilizes the `face_recognition` library to learn faces from photos and recognize them in real-time via webcam.
 
