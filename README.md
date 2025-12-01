@@ -18,7 +18,7 @@ Aşağıda sistemin nasıl çalıştığına dair kısa bir örnek videoyu indir
 
 ### Gereksinimler
 
-Projenin çalışması için gerekli kütüphaneler `requirements.txt` dosyasında belirtilmiştir. Aşağıdaki komut ile kolayca yükleyebilirsiniz:
+Projenin çalışması için gerekli kütüphaneler `requirements.txt` dosyasında belirtilmiştir. Aşağıdaki komut ile paketleri yükleyiniz.
 
 ```bash
 pip install -r requirements.txt
